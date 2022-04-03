@@ -14,4 +14,16 @@
 ### 1. 玩家第一次登录需要添加机器人为好友以及通过 **/qqlogin <QQ号>** 格式绑定QQ，机器人会自动通过好友请求
 ### 2. 玩家每次将屏幕显示的验证码，**私聊**发送给机器人即可登录
 
+config.yml预览
+![alt config预览](./images/config.yml.png)
+
+游戏内效果预览
+![alt 验证码](./images/captcha.png)
+
+登录
+![alt 登录](./images/send_captcha.jpg)
+
+登录成功
+![alt 登录成功](./images/success.png)
+
 ### 欢迎PR
