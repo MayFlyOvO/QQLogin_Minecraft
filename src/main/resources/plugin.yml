@@ -1,0 +1,17 @@
+name: QQLogin
+version: '${project.version}'
+main: com.gameobj.qqlogin.QQLogin
+prefix: QQ登录插件
+depend: [ MiraiMC ]
+authors: [ Mayfly ]
+
+commands:
+  qqlogin:
+    description: QQ登录
+    usage: /<command>
+    permission: qqlogin
+
+permissions:
+  qqlogin:
+    description: QQ登录
+    default: true
